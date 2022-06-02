@@ -1,0 +1,2 @@
+/swagger-ui/?configUrl=https://gist.githubusercontent.com/LeoHuang2015/a6fa938b473b4407551666e4f4977c0c/raw/dcb2e81f0ea58a07de873729d1503f10d01aed14/swagger.json
+/swagger-ui.html?url=https%3A%2F%2Fgist.githubusercontent.com%2FLeoHuang2015%2F0078717cabc0d2c3c861976ef28286f7%2Fraw%2Fe06366a0ef5d009dc883a5406d96b8394446ef28%2Fgistfile1.txt
